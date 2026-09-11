@@ -4,8 +4,13 @@
       "guildId": "1497444124230422668",
       "channelId": "1497444124230422671",
       "providerPreference": "all",
-      "pingRoleId": "1497444124230422668",
       "lastDropDate": "2026-09-10"
+    },
+    {
+      "guildId": "1489552565950480416",
+      "channelId": "1489559265629831178",
+      "providerPreference": "all",
+      "lastDropDate": null
     }
   ]
 }
