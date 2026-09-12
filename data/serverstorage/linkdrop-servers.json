@@ -7,12 +7,6 @@
       "lastDropDate": "2026-09-11"
     },
     {
-      "guildId": "1489552565950480416",
-      "channelId": "1489559265629831178",
-      "providerPreference": "all",
-      "lastDropDate": null
-    },
-    {
       "guildId": "1491235186061344798",
       "channelId": "1542992724486135878",
       "providerPreference": "all",
@@ -21,6 +15,12 @@
     {
       "guildId": "1442728968909357067",
       "channelId": "1506074998874308759",
+      "providerPreference": "all",
+      "lastDropDate": null
+    },
+    {
+      "guildId": "1489552565950480416",
+      "channelId": "1517232042348122223",
       "providerPreference": "all",
       "lastDropDate": null
     }
