@@ -41,6 +41,12 @@
       "channelId": "1517582314039804105",
       "providerPreference": "all",
       "lastDropDate": null
+    },
+    {
+      "guildId": "1505032920484806717",
+      "channelId": "1548758885270294648",
+      "providerPreference": "cloudflare",
+      "lastDropDate": null
     }
   ]
 }
