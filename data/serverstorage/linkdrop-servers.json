@@ -59,6 +59,12 @@
       "channelId": "1548497344411078656",
       "providerPreference": "surge",
       "lastDropDate": null
+    },
+    {
+      "guildId": "1502282082335068160",
+      "channelId": "1502282892372606987",
+      "providerPreference": "all",
+      "lastDropDate": null
     }
   ]
 }
