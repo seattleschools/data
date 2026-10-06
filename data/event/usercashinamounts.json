@@ -1,3 +1,26 @@
 {
-  "users": []
+  "users": [
+    {
+      "guildId": "1505701343002886256",
+      "userId": "1482047407423230064",
+      "amount": 7,
+      "stashes": [
+        {
+          "id": "1791259647220-45057",
+          "amount": 7,
+          "provider": "cdn",
+          "status": "ready",
+          "links": [
+            "https://raw.githubusercontent.com/seattleschools/media/main/batch/Halloween-event/20261006040927/3485f57cd2a871e2.svg?v=1",
+            "https://cdn.jsdelivr.net/gh/seattleschools/media@main/batch/Halloween-event/20261006040927/3485f57cd2a871e2.svg?v=2",
+            "https://quantil.jsdelivr.net/gh/seattleschools/media@main/batch/Halloween-event/20261006040927/3485f57cd2a871e2.svg?v=3",
+            "https://originfastly.jsdelivr.net/gh/seattleschools/media@main/batch/Halloween-event/20261006040927/3485f57cd2a871e2.svg?v=4",
+            "https://cdn.jsdelivr.net/gh/seattleschools/media@main/batch/Halloween-event/20261006040927/3485f57cd2a871e2.svg?id=1&key=1",
+            "https://cdn.jsdelivr.net/gh/seattleschools/media@main/batch/Halloween-event/20261006040927/3485f57cd2a871e2.svg?id=2&key=2",
+            "https://cdn.jsdelivr.net/gh/seattleschools/media@main/batch/Halloween-event/20261006040927/3485f57cd2a871e2.svg?id=3&key=3"
+          ]
+        }
+      ]
+    }
+  ]
 }
