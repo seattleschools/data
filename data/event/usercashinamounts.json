@@ -3,7 +3,7 @@
     {
       "guildId": "1505701343002886256",
       "userId": "1482047407423230064",
-      "amount": 7,
+      "amount": 78,
       "stashes": [
         {
           "id": "1791259647220-45057",
@@ -19,6 +19,14 @@
             "https://cdn.jsdelivr.net/gh/seattleschools/media@main/batch/Halloween-event/20261006040927/3485f57cd2a871e2.svg?id=2&key=2",
             "https://cdn.jsdelivr.net/gh/seattleschools/media@main/batch/Halloween-event/20261006040927/3485f57cd2a871e2.svg?id=3&key=3"
           ]
+        },
+        {
+          "id": "1791261838167-61034",
+          "amount": 71,
+          "provider": "google",
+          "status": "failed",
+          "links": [],
+          "error": "Google Script returned an invalid response."
         }
       ]
     }
