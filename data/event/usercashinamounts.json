@@ -351,42 +351,6 @@
     },
     {
       "guildId": "1505701343002886256",
-      "userId": "1350636836716023840",
-      "amount": 13,
-      "stashes": [
-        {
-          "id": "1791374096121-18668",
-          "amount": 5,
-          "provider": "surge",
-          "status": "ready",
-          "links": [
-            "https://494947eba797.surge.sh/index.svg?id=1&key=1",
-            "https://494947eba797.surge.sh/index.svg?id=2&key=2",
-            "https://494947eba797.surge.sh/index.svg?id=3&key=3",
-            "https://494947eba797.surge.sh/index.svg?id=4&key=4",
-            "https://494947eba797.surge.sh/index.svg?id=5&key=5"
-          ]
-        },
-        {
-          "id": "1791374135609-71815",
-          "amount": 8,
-          "provider": "google",
-          "status": "ready",
-          "links": [
-            "https://script.google.com/macros/s/AKfycbzAWnqB7x6fI-zIw1YH1gxij_3TlCT_FdMo3Q7ClBYPcLlpOLBn7pTZqftKcAtTBsf9lw/exec?id=1&key=1",
-            "https://script.google.com/macros/s/AKfycbzAWnqB7x6fI-zIw1YH1gxij_3TlCT_FdMo3Q7ClBYPcLlpOLBn7pTZqftKcAtTBsf9lw/exec?id=2&key=2",
-            "https://script.google.com/macros/s/AKfycbzAWnqB7x6fI-zIw1YH1gxij_3TlCT_FdMo3Q7ClBYPcLlpOLBn7pTZqftKcAtTBsf9lw/exec?id=3&key=3",
-            "https://script.google.com/macros/s/AKfycbzAWnqB7x6fI-zIw1YH1gxij_3TlCT_FdMo3Q7ClBYPcLlpOLBn7pTZqftKcAtTBsf9lw/exec?id=4&key=4",
-            "https://script.google.com/macros/s/AKfycbzAWnqB7x6fI-zIw1YH1gxij_3TlCT_FdMo3Q7ClBYPcLlpOLBn7pTZqftKcAtTBsf9lw/exec?id=5&key=5",
-            "https://script.google.com/macros/s/AKfycbzAWnqB7x6fI-zIw1YH1gxij_3TlCT_FdMo3Q7ClBYPcLlpOLBn7pTZqftKcAtTBsf9lw/exec?id=6&key=6",
-            "https://script.google.com/macros/s/AKfycbzAWnqB7x6fI-zIw1YH1gxij_3TlCT_FdMo3Q7ClBYPcLlpOLBn7pTZqftKcAtTBsf9lw/exec?id=7&key=7",
-            "https://script.google.com/macros/s/AKfycbzAWnqB7x6fI-zIw1YH1gxij_3TlCT_FdMo3Q7ClBYPcLlpOLBn7pTZqftKcAtTBsf9lw/exec?id=8&key=8"
-          ]
-        }
-      ]
-    },
-    {
-      "guildId": "1505701343002886256",
       "userId": "1485085638817742949",
       "amount": 194,
       "stashes": [
