@@ -577,7 +577,7 @@
     {
       "guildId": "1505701343002886256",
       "userId": "1515881390451986700",
-      "amount": 15,
+      "amount": 22,
       "stashes": [
         {
           "id": "1791503540691-95128",
@@ -608,6 +608,21 @@
             "https://e6f799a51ca9.surge.sh/index.svg?id=7&key=7",
             "https://e6f799a51ca9.surge.sh/index.svg?id=8&key=8",
             "https://e6f799a51ca9.surge.sh/index.svg?id=9&key=9"
+          ]
+        },
+        {
+          "id": "1791510624243-74804",
+          "amount": 7,
+          "provider": "google",
+          "status": "ready",
+          "links": [
+            "https://script.google.com/macros/s/AKfycbzAWnqB7x6fI-zIw1YH1gxij_3TlCT_FdMo3Q7ClBYPcLlpOLBn7pTZqftKcAtTBsf9lw/exec?id=1&key=1",
+            "https://script.google.com/macros/s/AKfycbzAWnqB7x6fI-zIw1YH1gxij_3TlCT_FdMo3Q7ClBYPcLlpOLBn7pTZqftKcAtTBsf9lw/exec?id=2&key=2",
+            "https://script.google.com/macros/s/AKfycbzAWnqB7x6fI-zIw1YH1gxij_3TlCT_FdMo3Q7ClBYPcLlpOLBn7pTZqftKcAtTBsf9lw/exec?id=3&key=3",
+            "https://script.google.com/macros/s/AKfycbzAWnqB7x6fI-zIw1YH1gxij_3TlCT_FdMo3Q7ClBYPcLlpOLBn7pTZqftKcAtTBsf9lw/exec?id=4&key=4",
+            "https://script.google.com/macros/s/AKfycbzAWnqB7x6fI-zIw1YH1gxij_3TlCT_FdMo3Q7ClBYPcLlpOLBn7pTZqftKcAtTBsf9lw/exec?id=5&key=5",
+            "https://script.google.com/macros/s/AKfycbzAWnqB7x6fI-zIw1YH1gxij_3TlCT_FdMo3Q7ClBYPcLlpOLBn7pTZqftKcAtTBsf9lw/exec?id=6&key=6",
+            "https://script.google.com/macros/s/AKfycbzAWnqB7x6fI-zIw1YH1gxij_3TlCT_FdMo3Q7ClBYPcLlpOLBn7pTZqftKcAtTBsf9lw/exec?id=7&key=7"
           ]
         }
       ]
