@@ -4311,6 +4311,30 @@
           ]
         }
       ]
+    },
+    {
+      "guildId": "1505701343002886256",
+      "userId": "1533584327500103721",
+      "amount": 9,
+      "stashes": [
+        {
+          "id": "1791669761044-85678",
+          "amount": 9,
+          "provider": "surge",
+          "status": "ready",
+          "links": [
+            "https://9e4f9801ade7.surge.sh/index.svg?id=1&key=1",
+            "https://9e4f9801ade7.surge.sh/index.svg?id=2&key=2",
+            "https://9e4f9801ade7.surge.sh/index.svg?id=3&key=3",
+            "https://9e4f9801ade7.surge.sh/index.svg?id=4&key=4",
+            "https://9e4f9801ade7.surge.sh/index.svg?id=5&key=5",
+            "https://9e4f9801ade7.surge.sh/index.svg?id=6&key=6",
+            "https://9e4f9801ade7.surge.sh/index.svg?id=7&key=7",
+            "https://9e4f9801ade7.surge.sh/index.svg?id=8&key=8",
+            "https://9e4f9801ade7.surge.sh/index.svg?id=9&key=9"
+          ]
+        }
+      ]
     }
   ]
 }
