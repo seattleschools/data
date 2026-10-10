@@ -4273,7 +4273,7 @@
     {
       "guildId": "1505701343002886256",
       "userId": "1460772088012079328",
-      "amount": 5,
+      "amount": 10,
       "stashes": [
         {
           "id": "1791581326649-20677",
@@ -4281,6 +4281,14 @@
           "provider": "cdn",
           "status": "ready",
           "links": []
+        },
+        {
+          "id": "1791638701309-53289",
+          "amount": 5,
+          "provider": "google",
+          "status": "failed",
+          "links": [],
+          "error": "File must be between 1 byte and 5 MB."
         }
       ]
     },
