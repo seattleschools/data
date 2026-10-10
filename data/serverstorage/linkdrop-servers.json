@@ -244,6 +244,13 @@
       "providerPreference": "all",
       "lastDropDate": null,
       "lastHourlyDropKey": null
+    },
+    {
+      "guildId": "1558585937447886951",
+      "channelId": "1558620089752748152",
+      "providerPreference": "all",
+      "lastDropDate": null,
+      "lastHourlyDropKey": null
     }
   ]
 }
