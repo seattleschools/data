@@ -892,7 +892,7 @@
     {
       "guildId": "1442728968909357067",
       "userId": "1396968931654111293",
-      "amount": 3326,
+      "amount": 3336,
       "stashes": [
         {
           "id": "1791572738351-73211",
@@ -4266,6 +4266,24 @@
             "https://1f3915e7cb54.surge.sh/index.svg?id=8&key=8",
             "https://1f3915e7cb54.surge.sh/index.svg?id=9&key=9",
             "https://1f3915e7cb54.surge.sh/index.svg?id=10&key=10"
+          ]
+        },
+        {
+          "id": "1791651908156-72773",
+          "amount": 10,
+          "provider": "surge",
+          "status": "ready",
+          "links": [
+            "https://a2072fbfab5c.surge.sh/index.svg?id=1&key=1",
+            "https://a2072fbfab5c.surge.sh/index.svg?id=2&key=2",
+            "https://a2072fbfab5c.surge.sh/index.svg?id=3&key=3",
+            "https://a2072fbfab5c.surge.sh/index.svg?id=4&key=4",
+            "https://a2072fbfab5c.surge.sh/index.svg?id=5&key=5",
+            "https://a2072fbfab5c.surge.sh/index.svg?id=6&key=6",
+            "https://a2072fbfab5c.surge.sh/index.svg?id=7&key=7",
+            "https://a2072fbfab5c.surge.sh/index.svg?id=8&key=8",
+            "https://a2072fbfab5c.surge.sh/index.svg?id=9&key=9",
+            "https://a2072fbfab5c.surge.sh/index.svg?id=10&key=10"
           ]
         }
       ]
