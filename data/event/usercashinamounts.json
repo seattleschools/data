@@ -4339,7 +4339,7 @@
     {
       "guildId": "1442728968909357067",
       "userId": "1341443454630101003",
-      "amount": 9,
+      "amount": 4194,
       "stashes": [
         {
           "id": "1791672266953-59275",
@@ -4357,6 +4357,14 @@
             "https://script.google.com/macros/s/AKfycbzAWnqB7x6fI-zIw1YH1gxij_3TlCT_FdMo3Q7ClBYPcLlpOLBn7pTZqftKcAtTBsf9lw/exec?id=8&key=8",
             "https://script.google.com/macros/s/AKfycbzAWnqB7x6fI-zIw1YH1gxij_3TlCT_FdMo3Q7ClBYPcLlpOLBn7pTZqftKcAtTBsf9lw/exec?id=9&key=9"
           ]
+        },
+        {
+          "id": "1791672279539-15831",
+          "amount": 4185,
+          "provider": "google",
+          "status": "failed",
+          "links": [],
+          "error": "File must be between 1 byte and 5 MB."
         }
       ]
     }
