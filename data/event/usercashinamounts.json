@@ -892,7 +892,7 @@
     {
       "guildId": "1442728968909357067",
       "userId": "1396968931654111293",
-      "amount": 3596,
+      "amount": 3605,
       "stashes": [
         {
           "id": "1791572738351-73211",
@@ -4375,6 +4375,13 @@
         {
           "id": "1791677860110-49505",
           "amount": 182,
+          "provider": "cdn",
+          "status": "ready",
+          "links": []
+        },
+        {
+          "id": "1791678728633-27347",
+          "amount": 9,
           "provider": "cdn",
           "status": "ready",
           "links": []
