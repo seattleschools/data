@@ -1,3 +1,14 @@
 {
-  "users": []
+  "users": [
+    {
+      "userId": "1482047407423230064",
+      "balance": 0,
+      "lastClaimAt": null,
+      "lastSpinAt": 1791865499868,
+      "spins": 3,
+      "wins": 1,
+      "losses": 2,
+      "biggestPayout": 80
+    }
+  ]
 }
