@@ -39,6 +39,16 @@
       "wins": 0,
       "losses": 1,
       "biggestPayout": 0
+    },
+    {
+      "userId": "1386449446459412511",
+      "balance": 70,
+      "lastClaimAt": null,
+      "lastSpinAt": 1791911174543,
+      "spins": 3,
+      "wins": 0,
+      "losses": 3,
+      "biggestPayout": 0
     }
   ]
 }
