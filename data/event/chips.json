@@ -12,12 +12,12 @@
     },
     {
       "userId": "1350636836716023840",
-      "balance": 350,
+      "balance": 340,
       "lastClaimAt": 1792015921159,
-      "lastSpinAt": 1792016154810,
-      "spins": 14,
+      "lastSpinAt": 1792028365998,
+      "spins": 15,
       "wins": 8,
-      "losses": 6,
+      "losses": 7,
       "biggestPayout": 160
     },
     {
@@ -72,12 +72,12 @@
     },
     {
       "userId": "1406303152369696929",
-      "balance": 20,
+      "balance": 10,
       "lastClaimAt": null,
-      "lastSpinAt": 1792015858071,
-      "spins": 3,
+      "lastSpinAt": 1792028329273,
+      "spins": 4,
       "wins": 0,
-      "losses": 3,
+      "losses": 4,
       "biggestPayout": 0
     },
     {
