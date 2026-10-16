@@ -82,13 +82,13 @@
     },
     {
       "userId": "1454291366715723790",
-      "balance": 90,
+      "balance": 100,
       "lastClaimAt": null,
-      "lastSpinAt": 1792021366636,
-      "spins": 1,
-      "wins": 0,
+      "lastSpinAt": 1792193810954,
+      "spins": 2,
+      "wins": 1,
       "losses": 1,
-      "biggestPayout": 0
+      "biggestPayout": 20
     }
   ]
 }
