@@ -35,6 +35,12 @@
       "name": "DuckMath",
       "repositoryPath": "data/sponsor/2026-10-04-DuckMath.svg",
       "fileType": "svg"
+    },
+    {
+      "date": "2026-11-08",
+      "name": "MilkBox",
+      "repositoryPath": "data/sponsor/2026-11-08-MilkBox.svg",
+      "fileType": "svg"
     }
   ]
 }
