@@ -41,6 +41,12 @@
       "name": "MilkBox",
       "repositoryPath": "data/sponsor/2026-11-08-MilkBox.svg",
       "fileType": "svg"
+    },
+    {
+      "date": "2026-11-09",
+      "name": "StormOS",
+      "repositoryPath": "data/sponsor/2026-11-09-StormOS.svg",
+      "fileType": "svg"
     }
   ]
 }
