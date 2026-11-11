@@ -47,6 +47,12 @@
       "name": "StormOS",
       "repositoryPath": "data/sponsor/2026-11-09-StormOS.svg",
       "fileType": "svg"
+    },
+    {
+      "date": "2026-11-11",
+      "name": "Meteor",
+      "repositoryPath": "data/sponsor/2026-11-11-Meteor.svg",
+      "fileType": "svg"
     }
   ]
 }
