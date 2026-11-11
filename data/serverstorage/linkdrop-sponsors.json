@@ -47,6 +47,12 @@
       "name": "StormOS",
       "repositoryPath": "data/sponsor/2026-11-09-StormOS.svg",
       "fileType": "svg"
+    },
+    {
+      "date": "2026-11-13",
+      "name": "HyperZ",
+      "repositoryPath": "data/sponsor/2026-11-13-HyperZ.svg",
+      "fileType": "svg"
     }
   ]
 }
