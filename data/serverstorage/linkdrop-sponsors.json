@@ -53,6 +53,12 @@
       "name": "HyperZ",
       "repositoryPath": "data/sponsor/2026-11-13-HyperZ.svg",
       "fileType": "svg"
+    },
+    {
+      "date": "2026-11-12",
+      "name": "Meteor",
+      "repositoryPath": "data/sponsor/2026-11-12-Meteor.svg",
+      "fileType": "svg"
     }
   ]
 }
