@@ -482,6 +482,13 @@
       "providerPreference": "all",
       "lastDropDate": "2026-11-12",
       "lastHourlyDropKey": "2026-11-12-18"
+    },
+    {
+      "guildId": "1570273839965798513",
+      "channelId": "1570275658314154054",
+      "providerPreference": "all",
+      "lastDropDate": null,
+      "lastHourlyDropKey": null
     }
   ]
 }
