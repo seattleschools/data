@@ -59,6 +59,12 @@
       "name": "Meteor",
       "repositoryPath": "data/sponsor/2026-11-12-Meteor.svg",
       "fileType": "svg"
+    },
+    {
+      "date": "2026-11-20",
+      "name": "4Games",
+      "repositoryPath": "data/sponsor/2026-11-20-4Games.svg",
+      "fileType": "svg"
     }
   ]
 }
