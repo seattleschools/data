@@ -71,6 +71,12 @@
       "name": "Tartigrade-CC",
       "repositoryPath": "data/sponsor/2026-11-16-Tartigrade-CC.svg",
       "fileType": "svg"
+    },
+    {
+      "date": "2026-11-26",
+      "name": "Karph's Pond",
+      "repositoryPath": "data/sponsor/2026-11-26-Karph-s-Pond.svg",
+      "fileType": "svg"
     }
   ]
 }
